@@ -1,0 +1,27 @@
+# Django
+*.pyc
+__pycache__/
+db.sqlite3
+media/
+staticfiles/
+.env
+
+# VS Code
+.vscode/
+
+# Entorno virtual (Windows)
+acta-virtual/
+venv/
+ENV/
+env/
+.venv/
+
+# Logs
+*.log
+
+# Mac/Linux
+.DS_Store
+
+# Otros
+*.bak
+*.swp
